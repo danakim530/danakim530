@@ -1,6 +1,6 @@
 ### Hi there 👋
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-61DAFB?style=flat&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-E34F26?style=flat&logo=React&logoColor=white"/>
 
 <!--
 **danakim530/danakim530** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

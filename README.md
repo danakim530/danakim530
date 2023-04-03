@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=<danakim530>&show_icons=true&locale=en&layout=compact" alt="<danakim530>" /></p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
 
 <!--
 **danakim530/danakim530** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

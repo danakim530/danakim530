@@ -4,7 +4,7 @@
  <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=Axios&logoColor=white"/>  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> 
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danakim530)](https://github.com/danakim530/github-readme-stats)
 
 
 

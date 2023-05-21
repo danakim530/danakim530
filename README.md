@@ -10,7 +10,7 @@ Once I've used <br/> <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danakim530)](https://github.com/danakim530/github-readme-stats)<br/> <br/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danakim530)](https://github.com/danakim530/github-readme-stats)<br/> <br/>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdanakim530%2Fhit-counter&count_bg=%23DFD165&title_bg=%23555555&icon=&icon_color=%23D9D042&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdanakim530%2Fhit-counter&count_bg=%23DFD165&title_bg=%23555555&icon=&icon_color=%23D9D042&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br/>
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 <!--
 **danakim530/danakim530** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

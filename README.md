@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=yellow&height=100&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header)
 ### Hi I'm Dana Kim 👋
 
 Once I've used <br/><br/>

@@ -7,9 +7,9 @@ Once I've used <br/> <br/>
  <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=Axios&logoColor=white"/>  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danakim530)](https://github.com/danakim530/github-readme-stats)<br/> <br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danakim530)](https://github.com/danakim530/github-readme-stats)<br/>
 
-// [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danakim530)](https://github.com/danakim530/github-readme-stats)<br/> <br/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danakim530)](https://github.com/danakim530/github-readme-stats)<br/> <br/>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdanakim530%2Fhit-counter&count_bg=%23DFD165&title_bg=%23555555&icon=&icon_color=%23D9D042&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br/>
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 <!--

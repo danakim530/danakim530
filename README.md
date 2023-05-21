@@ -6,7 +6,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danakim530)](https://github.com/danakim530/github-readme-stats)
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danakim530)](https://github.com/danakim530/github-readme-stats)
 
 <!--
 **danakim530/danakim530** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

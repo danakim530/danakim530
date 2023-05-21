@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=yellow&height=100&section=header)
 
 ### Hi I'm Dana Kim 👋
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/>  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
@@ -10,7 +10,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danakim530)](https://github.com/danakim530/github-readme-stats)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=yellow&height=200&section=footer)
 <!--
 **danakim530/danakim530** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -7,7 +7,7 @@ Once I've used <br/><br/>
  <br/> 
  <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=Axios&logoColor=white"/>  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <br/><br/>
 *****
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danakim530)](https://github.com/danakim530/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danakim530)](https://github.com/danakim530/github-readme-stats)<br/> <br/><br/>
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danakim530)](https://github.com/danakim530/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danakim530)](https://github.com/danakim530/github-readme-stats)<br/> <br/><br/> -->
 <!-- ![Footer](https://capsule-render.vercel.app/api?type=waving&color=yellow&height=100&section=footer) -->
 <!--
 **danakim530/danakim530** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
